@@ -3,7 +3,7 @@
 @section('content')
 
 @section('title')
-User Dashboard  
+User Dashboard  s
 @endsection
 
 @php
